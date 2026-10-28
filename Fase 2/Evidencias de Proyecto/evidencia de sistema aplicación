@@ -1,0 +1,6 @@
+**Sistema de Automatización de Firmas Digitales y Migración a Oracle**
+
+Este repositorio contiene la arquitectura y el código fuente de un sistema diseñado para modernizar y asegurar la gestión documental legal. El proyecto soluciona la vulnerabilidad y falta de trazabilidad de los registros históricos en archivos Excel mediante un pipeline de extracción y normalización (ETL) desarrollado en Python. La información estructurada se transfiere a un motor de base de datos relacional Oracle, donde se implementan políticas estrictas de Control de Acceso Basado en Roles (RBAC) y Triggers de auditoría, garantizando la inmutabilidad y el respaldo corporativo de cada firma digital.
+
+Puedes acceder a la demostración funcional del sistema en el siguiente enlace:
+https://crmeasyoffice.netlify.app
